@@ -3,6 +3,9 @@
 
 WeatherMaps is a simple weather app that allows the user to fetch weather of a location using the a map or his GPS location.
 
+
+
+
 ## How it works
 
 WeatherMaps uses OpenWeatherAPI to fetch the current weather at a given location. The user can request the weather in 3 different ways : 
@@ -24,7 +27,7 @@ WeatherMaps uses OpenWeatherAPI to fetch the current weather at a given location
     
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/xdN55KSy/Screenshot-2023-04-17-at-17-26-55.png)
-
-![App Screenshot](https://i.postimg.cc/rFh9LhVN/Screenshot-2023-04-17-at-17-29-15.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+[![Screenshot-2023-04-17-at-17-26-55.png](https://i.postimg.cc/xdN55KSy/Screenshot-2023-04-17-at-17-26-55.png)](https://postimg.cc/KKFtv3jR)  |  [![Screenshot-2023-04-17-at-17-29-15.png](https://i.postimg.cc/rFh9LhVN/Screenshot-2023-04-17-at-17-29-15.png)](https://postimg.cc/4m9c6QhY)
 
