@@ -29,5 +29,5 @@ WeatherMaps uses OpenWeatherAPI to fetch the current weather at a given location
 
 Day             |  Night
 :-------------------------:|:-------------------------:
-![Alt text](/DayScreenShot.png?raw=true "Optional Title")  |  ![Alt text](/NightScreenShot.png?raw=true "Optional Title")
+![Alt text](/DayScreenShot.png?raw=true "Day")  |  ![Alt text](/NightScreenShot.png?raw=true "Night")
 
