@@ -27,7 +27,7 @@ WeatherMaps uses OpenWeatherAPI to fetch the current weather at a given location
     
 ## Screenshots
 
-Solarized dark             |  Solarized Ocean
+Day             |  Night
 :-------------------------:|:-------------------------:
-[![Screenshot-2023-04-17-at-17-26-55.png](https://i.postimg.cc/xdN55KSy/Screenshot-2023-04-17-at-17-26-55.png)](https://postimg.cc/KKFtv3jR)  |  [![Screenshot-2023-04-17-at-17-29-15.png](https://i.postimg.cc/rFh9LhVN/Screenshot-2023-04-17-at-17-29-15.png)](https://postimg.cc/4m9c6QhY)
+![Alt text](/DayScreenShot.png?raw=true "Optional Title")  |  ![Alt text](/NightScreenShot.png?raw=true "Optional Title")
 
